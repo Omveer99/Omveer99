@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/omveerpanwar.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="omveerpanwar.dev" height="30" width="40" /></a>
+
 <a href="https://twitter.com/omveer_panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omveer_panwar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omveer-panwar-4789ab239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omveer-panwar-4789ab239" height="30" width="40" /></a>
 <a href="https://instagram.com/gujjar_omveer_panwar910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gujjar_omveer_panwar910" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youtube.com/@techprodevelopers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@techprodevelopers" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@techprodevelopers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@techprodevelopers" height="30" width="40" /></a>
 <a href="https://discord.gg/omveer_87706_40204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omveer_87706_40204" height="30" width="40" /></a>
 </p>
 
