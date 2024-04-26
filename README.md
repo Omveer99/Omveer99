@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **DSA in JAVA**
 
-- 👨‍💻 All of my projects are available at [https://omveerpanwar.dev/](https://omveerpanwar.page/)
+- 👨‍💻 All of my projects are available at [https://omveerpanwar.page/](https://omveerpanwar.page/)
 
 - 💬 Ask me about **Java,Swift, Kotlin, Android and iOS**
 
