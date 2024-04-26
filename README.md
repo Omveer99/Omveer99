@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM..](https://peopleofcolorintech.com/wp-content/uploads/2016/02/iOS-Developer-540x317@2x.jpg))](https://omveerpanwar.page)
+[![MasterHead]((https://peopleofcolorintech.com/wp-content/uploads/2016/02/iOS-Developer-540x317@2x.jpg))](https://omveerpanwar.page)
 <h1 align="center">Hi 👋, I'm Omveer Panwar</h1>
 <h3 align="center">Mobile Application Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
