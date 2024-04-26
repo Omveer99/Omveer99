@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://omveerpanwar.page/)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpeopleofcolorintech.com%2Ffront%2Fbecoming-an-ios-developer%2F&psig=AOvVaw0cezSlUCk6iQ2kXo9cC2wr&ust=1714207667321000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDh1qq_34UDFQAAAAAdAAAAABAK))](https://omveerpanwar.page/)
 <h1 align="center">Hi 👋, I'm Omveer Panwar</h1>
 <h3 align="center">Mobile Application Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
