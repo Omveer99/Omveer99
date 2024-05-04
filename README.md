@@ -44,3 +44,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omveer99&" alt="omveer99" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omveer99&show_icons=true&locale=en" alt="omveer99" /></p>
+
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=omveer99&bg_color=FFFFFF&color=000000&line=000000&point=00FF00" alt="omveer99" /></p>
+
+<p><img align="center" src="https://komarev.com/ghpvc/?username=omveer99&label=Profile%20views&color=0e75b6&style=flat" alt="omveer99" /></p>
