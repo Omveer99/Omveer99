@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Omveer Panwar</h1>
 <h3 align="center">Mobile Application Developer</h3>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFF00&background=3728FF00&center=true&vCenter=true&width=500&height=80&lines=System.out.println(%22I+AM+A+PROGRAMMER%22);System.out.print(%22IMPROVING+BIT+BY+BIT%22);Printf(%22I+AM+A+iOS+DEVELOPER%22)">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFF00&background=3728FF00&center=true&vCenter=true&width=500&height=80&lines=System.out.println(%22I+AM+A+PROGRAMMER%22);System.out.print(%22IMPROVING+BIT+BY+BIT%22);Printf(%22I+AM+A+iOS+DEVELOPER%22);Cout(%22Android+Developer%22)">
 </h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/omveer_panwar" target="blank"><img src="https://img.shields.io/twitter/follow/omveer_panwar?logo=twitter&style=for-the-badge" alt="omveer_panwar" /></a> </p>
