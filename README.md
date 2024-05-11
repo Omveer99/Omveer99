@@ -1,8 +1,12 @@
 [![MasterHead](https://peopleofcolorintech.com/wp-content/uploads/2016/02/iOS-Developer-540x317@2x.jpg)](https://omveerpanwar.page/)
 <h1 align="center">Hi 👋, I'm Omveer Panwar</h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=C050F7&background=3728FF00&center=true&vCenter=true&width=500&height=80&lines=System.out.println(%22I+AM+A+PROGRAMMER%22);System.out.print(%22IMPROVING+BIT+BY+BIT%22);Printf(%22I+AM+A+DEVELOPER%22)">
+
 <h3 align="center">Mobile Application Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/omveer_panwar" target="blank"><img src="https://img.shields.io/twitter/follow/omveer_panwar?logo=twitter&style=for-the-badge" alt="omveer_panwar" /></a> </p>
+
+
 
 
 
