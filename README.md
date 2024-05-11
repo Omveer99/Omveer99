@@ -37,6 +37,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omveer99&show_icons=true&locale=en&layout=compact" alt="omveer99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omveer99&" alt="omveer99" /></p>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Omveer99&limit=5&theme=flat&combine_all_yearly_contributions=true)
