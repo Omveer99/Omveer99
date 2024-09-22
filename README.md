@@ -1,4 +1,5 @@
 [![MasterHead](https://peopleofcolorintech.com/wp-content/uploads/2016/02/iOS-Developer-540x317@2x.jpg)](https://omveerpanwar.page/)
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 [![Linkedin Badge](https://img.shields.io/badge/Omveer-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omveer-panwar-4789ab239/)
 [![Gmail Badge](https://img.shields.io/badge/omveerpanwar9@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:omveerpanwar9@gmail.com)
 [![Github Badge](https://img.shields.io/badge/Omveer99-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omveer99)
