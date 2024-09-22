@@ -4,6 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/omveerpanwar9@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:omveerpanwar9@gmail.com)
 [![Github Badge](https://img.shields.io/badge/Omveer99-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omveer99)
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 <h1 align="center">Hi 👋, I'm Omveer Panwar</h1>
 <h3 align="center">Mobile Application Developer</h3>
 <h1 align="center">
@@ -12,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <a href="https://twitter.com/omveer_panwar" target="blank"><img src="https://img.shields.io/twitter/follow/omveer_panwar?logo=twitter&style=for-the-badge" alt="omveer_panwar" /></a> </p>
 
-
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 
 
