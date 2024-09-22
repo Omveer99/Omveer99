@@ -53,7 +53,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omveer99&show_icons=true&locale=en&layout=compact" alt="omveer99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omveer99&" alt="omveer99" /></p>
+
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Omveer99&limit=5&theme=flat&combine_all_yearly_contributions=true)
 ## snake eating my contribution graph
